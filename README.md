@@ -1,11 +1,11 @@
 #ChartCreator<br>
 A Unity script for creating a chart from an array of distances.<br><br>
 
-##Installation<br>
+## Installation<br>
 To use this script in your Unity project, simply download the ChartCreator.cs file and add it to your Assets folder.<br><br>
 
 
-##H3 Usage<br>
+## H3 Usage<br>
 To create a chart using the ChartCreator script, follow these steps:<br><br>
 
 Create a CanvasRenderer and a Material in your scene.<br>
