@@ -1,5 +1,20 @@
 # RPG Chart Creator
- Simple technique to create a RPG Chart in Unity <br>
+H1 ChartCreator<br>
+A Unity script for creating a chart from an array of distances.<br><br>
+
+H2 Installation<br>
+To use this script in your Unity project, simply download the ChartCreator.cs file and add it to your Assets folder.<br><br>
+
+
+H3 Usage<br>
+To create a chart using the ChartCreator script, follow these steps:<br><br>
+
+Create a CanvasRenderer and a Material in your scene.<br>
+Call the Create method of the ChartCreator class, passing in the following arguments:<br>
+An array of float values representing the distances for the chart.<br>
+The CanvasRenderer you created in step 1.<br>
+The Material you created in step 1.<br>
+A Texture2D to be used as the texture for the chart.<br>
  
  
 ![image](https://user-images.githubusercontent.com/79004006/211205974-7bb20893-f664-46d8-b8ca-737820c517ee.png)<br>
