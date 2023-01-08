@@ -13,9 +13,9 @@ Call the Create method of the ChartCreator class, passing in the following argum
 An array of float values representing the distances for the chart.<br>
 The CanvasRenderer you created in step 1.<br>
 The Material you created in step 1.<br>
-A Texture2D to be used as the texture for the chart.<br><br>
+A Texture2D to be used as the texture for the chart.<br>
 
-If you want, you can also use the ChartCreator.CreateMesh() to get the mesh used.<br>
+If you want, you can also use the ChartCreator.CreateMesh() to get the mesh used.<br><br>
  
  
 ![image](https://user-images.githubusercontent.com/79004006/211205974-7bb20893-f664-46d8-b8ca-737820c517ee.png)<br>
