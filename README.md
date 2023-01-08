@@ -1,4 +1,4 @@
-#ChartCreator<br>
+# ChartCreator<br>
 A Unity script for creating a chart from an array of distances.<br><br>
 
 ## Installation<br>
